@@ -1,3 +1,4 @@
+package com.JavaCodes;
 public class Account {
     private String name;
     private double balance;

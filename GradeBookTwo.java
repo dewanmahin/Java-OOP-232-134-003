@@ -1,3 +1,4 @@
+package com.JavaCodes;
 public class GradeBookTwo {
     private String courseName;
     private int[][] grades;

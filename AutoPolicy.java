@@ -1,3 +1,4 @@
+package com.JavaCodes;
 public class AutoPolicy {
     private int accountNumber;
     private String makeAndModel;

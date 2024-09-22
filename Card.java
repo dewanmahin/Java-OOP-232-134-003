@@ -1,3 +1,4 @@
+package com.JavaCodes;
 public class Card {
 
     private final String face;

@@ -1,3 +1,4 @@
+package com.JavaCodes;
 import java.security.SecureRandom;
 
 public class RollDie {

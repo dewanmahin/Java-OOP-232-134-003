@@ -1,3 +1,4 @@
+package com.JavaCodes;
 public class InitArrayTwo {
     public static void main(String[] args) {
 

@@ -1,3 +1,4 @@
+package com.JavaCodes;
 public class GradeBook {
 
     private String courseName;

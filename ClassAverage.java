@@ -1,3 +1,4 @@
+package com.JavaCodes;
 import java.util.Scanner;
 public class ClassAverage {
     private int total = 0;

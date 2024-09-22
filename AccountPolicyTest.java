@@ -1,3 +1,4 @@
+package com.JavaCodes;
 public class AccountPolicyTest {
     public static void main(String[] args)
     {

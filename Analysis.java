@@ -1,3 +1,4 @@
+package com.JavaCodes;
 import java.util.Scanner;
 public class Analysis {
     public int studentCount = 0;
