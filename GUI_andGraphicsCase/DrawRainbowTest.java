@@ -11,7 +11,7 @@ public class DrawRainbowTest
 
         application.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         application.add(panel);
-        application.setSize(400, 250);
+        application.setSize(800, 500);
         application.setVisible(true);
     }
 }
